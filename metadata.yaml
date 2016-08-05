@@ -1,0 +1,43 @@
+_repo: Indian-Summer_7359
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Howells, William Dean
+    aliases:
+    - Howells, William D. (William Dean)
+    - Howells, W. D. (William Dean)
+    birthdate: 1837
+    deathdate: 1920
+    gutenberg_agent_id: '97'
+    url: http://www.gutenberg.org/2009/agents/97
+    wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
+description: "Indian Summer is an 1886 novel by William Dean Howells. Though it was\
+  \ published after The Rise of Silas Lapham, it was written before The Rise of Silas\
+  \ Lapham. The setting for this novel was inspired by a trip Howells had recently\
+  \ taken with his family to Europe.\nHowells was a realist writer who wanted “his\
+  \ characters to be honest, ordinary people, as he might find in his strata of society,\
+  \ flawed and well-meaning, good-hearted and self-effacing, bound by the conventions\
+  \ and the restrictions of their day but quietly dreaming of a little local heroism\
+  \ in their souls.”  All of this is encompassed in the character Theodore Colville.\n\
+  \ From Wikipedia (CC BY-SA)."
+gutenberg_issued: '2005-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '7359'
+  wikidata: Q16386329
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Middle-aged men -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Americans -- Italy -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Midlife crisis -- Fiction'
+- !lcsh 'Italy -- Fiction'
+- GITenberg
+title: Indian Summer
+url: http://www.gutenberg.org/ebooks/7359
+wikipedia:
+- https://en.wikipedia.org/wiki/Indian_Summer_(novel)
