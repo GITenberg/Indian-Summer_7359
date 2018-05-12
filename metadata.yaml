@@ -1,5 +1,8 @@
 _repo: Indian-Summer_7359
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Howells, William Dean
@@ -20,6 +23,8 @@ description: "Indian Summer is an 1886 novel by William Dean Howells. Though it 
   \ and the restrictions of their day but quietly dreaming of a little local heroism\
   \ in their souls.”  All of this is encompassed in the character Theodore Colville.\n\
   \ From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/7359#Indian-Summer
 gutenberg_issued: '2005-01-01'
 gutenberg_type: Text
 identifiers:
